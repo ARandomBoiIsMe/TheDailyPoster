@@ -1,5 +1,5 @@
 # TheDailyPoster  
-Script that checks for new [Thedaily](https://www.nytimes.com/column/the-daily) articles and makes a post to [r/Buckethead](https://www.reddit.com/r/Buckethead/) when a new article is found.
+Script that checks for new [The Daily](https://www.nytimes.com/column/the-daily) articles and makes a post to [r/Thedaily](https://www.reddit.com/r/Thedaily/) when a new article is found.
 
 ## Installation
 - [Install Python](https://www.python.org/downloads/). Add to PATH during the installation.  
